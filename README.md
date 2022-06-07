@@ -1,2 +1,2 @@
 # voxlog
-a log system
+a multi-functions log system
